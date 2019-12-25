@@ -1,5 +1,5 @@
 name:  Mikrotik Enforce Config
-  hosts: Mikrotik
+  hosts: all
   gather_facts: false
 
 ---
